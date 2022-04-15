@@ -1,21 +1,60 @@
-﻿using System;
+using System;
 
-namespace Programming_Basics_Online_Exam___6_and_7_April_2019
+namespace _06._Cinema_Tickets
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //double rent = double.Parse(Console.ReadLine());
+            string movie = Console.ReadLine();
 
-            //double figurines = rent * 0.7;
-            //double catering = figurines * 0.85;
-            //double soundSystem = catering * 0.5;
-            //double total = figurines + catering + soundSystem + rent;
+            double counterStudent = 0;
+            double counterStandard = 0;
+            double counterKid = 0;
+            double counterTotal = 0;
+            while (movie != "Finish")
+            {
+                double seats = double.Parse(Console.ReadLine());
+                string typeTicket = Console.ReadLine();
+                double counterSeats = 0;
 
-            //Console.WriteLine($"{total:F2}");
+                while (typeTicket != "End")
+                {
+                    if (typeTicket == "student")
+                    {
+                        counterStudent++;
+                    }
+                    if (typeTicket == "standard")
+                    {
+                        counterStandard++;
+                    }
+                    if (typeTicket == "kid")
+                    {
+                        counterKid++;
+                    }
+                    counterSeats++;
+                    counterTotal++;
+                    if (counterSeats >= seats)
+                    {
+                        break;
+                    }
+                    
+                    typeTicket = Console.ReadLine();
+                }
 
-
+                double porcentHall = counterSeats / seats * 100;
+                Console.WriteLine($"{movie} - {porcentHall:f2}% full.");
+                movie = Console.ReadLine();
+                
+            }
+            double porcentStudent = counterStudent / counterTotal * 100;
+            double porcentStandard = counterStandard / counterTotal * 100;
+            double porcentKid = counterKid / counterTotal * 100;
+            Console.WriteLine($"Total tickets: {counterTotal}");
+            Console.WriteLine($"{porcentStudent:f2}% student tickets.");
+            Console.WriteLine($"{porcentStandard:f2}% standard tickets.");
+            Console.WriteLine($"{porcentKid:f2}% kids tickets.");
         }
     }
 }
+
