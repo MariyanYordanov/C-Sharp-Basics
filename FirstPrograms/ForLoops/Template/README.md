@@ -1,0 +1,1 @@
+For loop exercces task
