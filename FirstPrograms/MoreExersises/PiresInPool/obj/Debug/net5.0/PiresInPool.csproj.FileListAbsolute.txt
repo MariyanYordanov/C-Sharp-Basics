@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.exe
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.deps.json
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.runtimeconfig.json
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.dll
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\ref\PiresInPool.dll
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\bin\Debug\net5.0\PiresInPool.pdb
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.AssemblyInfo.cs
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.dll
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\ref\PiresInPool.dll
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.pdb
+C:\Users\Goker\source\repos\MoreExersises\PiresInPool\obj\Debug\net5.0\PiresInPool.genruntimeconfig.cache
