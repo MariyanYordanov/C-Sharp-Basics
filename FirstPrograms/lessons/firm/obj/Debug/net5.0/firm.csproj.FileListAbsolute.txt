@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.exe
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.deps.json
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.runtimeconfig.json
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.dll
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\ref\firm.dll
+C:\Users\Goker\source\repos\lessons\firm\bin\Debug\net5.0\firm.pdb
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.AssemblyInfo.cs
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.dll
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\ref\firm.dll
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.pdb
+C:\Users\Goker\source\repos\lessons\firm\obj\Debug\net5.0\firm.genruntimeconfig.cache

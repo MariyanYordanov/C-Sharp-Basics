@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.exe
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.deps.json
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.runtimeconfig.json
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.dll
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\ref\Pets.dll
+C:\Users\Goker\source\repos\lessons\Pets\bin\Debug\net5.0\Pets.pdb
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.AssemblyInfo.cs
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.dll
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\ref\Pets.dll
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.pdb
+C:\Users\Goker\source\repos\lessons\Pets\obj\Debug\net5.0\Pets.genruntimeconfig.cache

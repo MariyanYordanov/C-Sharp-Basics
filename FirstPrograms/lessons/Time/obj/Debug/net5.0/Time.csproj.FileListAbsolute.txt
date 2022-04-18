@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.exe
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.deps.json
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.dll
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\ref\Time.dll
+C:\Users\Goker\source\repos\lessons\Time\bin\Debug\net5.0\Time.pdb
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.dll
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\ref\Time.dll
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.pdb
+C:\Users\Goker\source\repos\lessons\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.exe
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.deps.json
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.runtimeconfig.json
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.dll
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\ref\Harvest.dll
+C:\Users\Goker\source\repos\lessons\Harvester\bin\Debug\net5.0\Harvest.pdb
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.AssemblyInfo.cs
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.dll
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\ref\Harvest.dll
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.pdb
+C:\Users\Goker\source\repos\lessons\Harvester\obj\Debug\net5.0\Harvest.genruntimeconfig.cache

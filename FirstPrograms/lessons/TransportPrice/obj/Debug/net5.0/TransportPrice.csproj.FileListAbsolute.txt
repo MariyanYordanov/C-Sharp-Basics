@@ -1,0 +1,16 @@
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.exe
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.deps.json
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.runtimeconfig.json
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.runtimeconfig.dev.json
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.dll
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\ref\TransportPrice.dll
+C:\Users\Goker\source\repos\lessons\TransportPrice\bin\Debug\net5.0\TransportPrice.pdb
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.csprojAssemblyReference.cache
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.AssemblyInfo.cs
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.dll
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\ref\TransportPrice.dll
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.pdb
+C:\Users\Goker\source\repos\lessons\TransportPrice\obj\Debug\net5.0\TransportPrice.genruntimeconfig.cache
