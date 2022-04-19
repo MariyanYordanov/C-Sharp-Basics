@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcDeposit", "calcDeposit\calcDeposit.csproj", "{9909DCB4-C99A-42B1-A30D-4A49532B7E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9909DCB4-C99A-42B1-A30D-4A49532B7E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9909DCB4-C99A-42B1-A30D-4A49532B7E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9909DCB4-C99A-42B1-A30D-4A49532B7E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9909DCB4-C99A-42B1-A30D-4A49532B7E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D384BF-957A-4DC4-8AD0-C84BD97C0023}
+	EndGlobalSection
+EndGlobal
